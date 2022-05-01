@@ -1,0 +1,83 @@
+/*.App {
+  /*text-align: center;
+
+  
+
+}*/
+
+body{
+  background-color: #B3E5FC;
+  border-radius: 10px;
+  /*border-radius: 100px;
+  margin:1px;*/
+}
+
+
+
+.div1{
+ /* background-color: #567895;
+  margin-bottom:1px;
+  padding:1px;*/
+
+  /*border: none;
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  cursor: pointer*/
+
+
+    width: 900px;
+    /*width: 400px;*/
+    border: none;
+    border-radius: 40px;
+   /*border-radius: 10px;*/
+    background-color: #fff;
+    margin: 1%;
+
+  
+}
+
+.image {
+  /*border-radius: 30%;*/
+  height: 220px;
+  width: 220px;
+  margin-left: 400px;
+}
+
+.div2 {
+  background: #f2f5f8 !important;
+  color: #000 !important;
+}
+
+.div3{
+  margin-bottom: 10px;
+}
+.followers {
+  font-size: 10px;
+  color: #a1aab9
+}
+
+.number2 {
+  font-weight: 500
+}
+
+.rating {
+  font-size: 10px;
+  color: #a1aab9
+}
+
+.number3 {
+  font-weight: 500
+}
+
+
+
+button{
+  padding: 10px 30px;
+  font-size: 24px;
+  cursor: pointer;
+  
+	border-radius: 7px;
+	/*border-bottom-left-radius: 0;*/
+  color: #000000;
+}
